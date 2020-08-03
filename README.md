@@ -1,1 +1,1 @@
-# O007.HZOJ_Exercise
+# HZOJ_Exercise
